@@ -2,4 +2,4 @@
 
 This is a sample project that will allow you to send email with gmail's SMTP server, python, and flask.
 
-Blog post coming soon!
+Tutorial here: [https://www.twilio.com/blog/2018/03/send-email-programmatically-with-gmail-python-and-flask.html](https://www.twilio.com/blog/2018/03/send-email-programmatically-with-gmail-python-and-flask.html)
